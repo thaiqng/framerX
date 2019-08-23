@@ -1,0 +1,55 @@
+/* Class = "NSTextFieldCell"; title = "New Documents:"; ObjectID = "5JL-YQ-jZ8"; */
+"5JL-YQ-jZ8.title" = "新文档：";
+
+/* Class = "NSMenuItem"; title = "Light Canvas"; ObjectID = "AC2-xv-Jke"; */
+"AC2-xv-Jke.title" = "浅色画布";
+
+/* Class = "NSMenuItem"; title = "System Default"; ObjectID = "E7q-rD-8uP"; */
+"E7q-rD-8uP.title" = "系统默认";
+
+/* Class = "NSMenuItem"; title = "Sketch Cloud"; ObjectID = "eCT-bB-dPJ"; */
+"eCT-bB-dPJ.title" = "Sketch Cloud";
+
+/* Class = "NSMenuItem"; title = "Sketch Default"; ObjectID = "EUd-6t-NzF"; */
+"EUd-6t-NzF.title" = "Sketch 默认";
+
+/* Class = "NSButtonCell"; title = "Use macOS Auto Save while editing local documents"; ObjectID = "EV2-Hw-MTk"; */
+"EV2-Hw-MTk.title" = "编辑文档时利用 macOS 自动保存到本地";
+
+/* Class = "NSTextFieldCell"; title = "This gives you access to previous versions and reduces the chance of you losing your work. This option only affects local documents. Documents stored in Sketch Cloud will automatically and regularly back up as you work."; ObjectID = "gZr-Xb-DjR"; */
+"gZr-Xb-DjR.title" = "您可以方便地查看较早版本并降低丢失工作文档的风险。该选项仅会影响本地文档。您存储在 Sketch Cloud 中的文档会自动定期进行备份。";
+
+/* Class = "NSMenuItem"; title = "Local"; ObjectID = "HBM-gd-D2D"; */
+"HBM-gd-D2D.title" = "本地";
+
+/* Class = "NSMenuItem"; title = "Dark Canvas"; ObjectID = "jN6-dw-paN"; */
+"jN6-dw-paN.title" = "深色画布";
+
+/* Class = "NSTextFieldCell"; title = "Choose where new documents should be saved by default.\nThis will affect saving via menus and shortcuts."; ObjectID = "KaG-Bf-78M"; */
+"KaG-Bf-78M.title" = "选择新文档的默认保存位置。
+位置将应用于通过菜单或快捷键实施的保存。";
+
+/* Class = "NSButtonCell"; title = "Share analytics with Sketch"; ObjectID = "L6G-7w-ojc"; */
+"L6G-7w-ojc.title" = "与 Sketch 分享软件分析";
+
+/* Class = "NSTextFieldCell"; title = "Privacy:"; ObjectID = "N9T-5l-EVw"; */
+"N9T-5l-EVw.title" = "隐私：";
+
+/* Class = "NSTextFieldCell"; title = "Auto Save:"; ObjectID = "N63-o9-WgF"; */
+"N63-o9-WgF.title" = "自动保存：";
+
+/* Class = "NSTextFieldCell"; title = "Help improve Sketch by automatically sending diagnostics and usage data. Diagnostic data is collected anonymously and cannot be used to identify you."; ObjectID = "qLy-QE-Zo5"; */
+"qLy-QE-Zo5.title" = "自动发送诊断和使用数据以帮助 Sketch 改进。 诊断数据是匿名收集的，不会被用于识别您的身份。";
+
+/* Class = "NSTextFieldCell"; title = "Canvas:"; ObjectID = "RRW-KP-jTL"; */
+"RRW-KP-jTL.title" = "画布：";
+
+/* Class = "NSMenuItem"; title = "Light Mode"; ObjectID = "tOj-pn-rB0"; */
+"tOj-pn-rB0.title" = "浅色外观";
+
+/* Class = "NSTextFieldCell"; title = "Appearance:"; ObjectID = "wf3-4Q-5L4"; */
+"wf3-4Q-5L4.title" = "外观";
+
+/* Class = "NSMenuItem"; title = "Dark Mode"; ObjectID = "wqk-40-ZtV"; */
+"wqk-40-ZtV.title" = "深色外观";
+

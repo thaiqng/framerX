@@ -1,0 +1,13 @@
+<svg width="24" height="24" viewBox="0 0 24 24" 
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-align-8-horizontal</title>
+    <defs>
+        <path id="a" d="M7 9h10v6H7z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#555" d="M4 6h16v1H4zm0 11h16v1H4z"/>
+        <use fill="#333" xlink:href="#a"/>
+        <path stroke="#555" d="M7.5 9.5h9v5h-9z"/>
+    </g>
+</svg>

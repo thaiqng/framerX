@@ -1,0 +1,68 @@
+{
+  "_from": "@skpm/console@0.2.8",
+  "_id": "@skpm/console@0.2.8",
+  "_inBundle": false,
+  "_integrity": "sha512-nrgrdTaj//Jwzu4GmRGCYWAROrrtISgaCmg3+uxHEwGrwjqHvRq/pIFpUkqsBfnGXc9q2HPAP2g5lnNY7oEbdw==",
+  "_location": "/@skpm/console",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@skpm/console@0.2.8",
+    "name": "@skpm/console",
+    "escapedName": "@skpm%2fconsole",
+    "scope": "@skpm",
+    "rawSpec": "0.2.8",
+    "saveSpec": null,
+    "fetchSpec": "0.2.8"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@skpm/console/-/console-0.2.8.tgz",
+  "_shasum": "2c7eec260f381f56c86c61635a6435e20edf1a9c",
+  "_spec": "@skpm/console@0.2.8",
+  "_where": "/Users/Shared/Jenkins/workspace/SketchAPI/core-modules",
+  "author": {
+    "name": "Mathieu Dutour",
+    "email": "mathieu@dutour.me",
+    "url": "http://mathieu.dutour.me/"
+  },
+  "bugs": {
+    "url": "https://github.com/skpm/console/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "A console polyfill for sketch",
+  "devDependencies": {
+    "@skpm/test-runner": "^0.4.0",
+    "eslint": "^5.15.3",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4"
+  },
+  "homepage": "https://github.com/skpm/console#readme",
+  "keywords": [
+    "sketch",
+    "console",
+    "polyfill"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@skpm/console",
+  "prettier": {
+    "semi": false
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skpm/console.git"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint && skpm-test"
+  },
+  "version": "0.2.8"
+}

@@ -1,0 +1,69 @@
+/* Class = "NSTextFieldCell"; title = "No Results"; ObjectID = "8i7-6T-1mV"; */
+"8i7-6T-1mV.title" = "什么也没搜到";
+
+/* Class = "NSButtonCell"; alternateTitle = "News and tips in your inbox"; ObjectID = "10Q-jR-fAc"; */
+"10Q-jR-fAc.alternateTitle" = "获取新闻和使用小贴士";
+
+/* Class = "NSButtonCell"; title = "Join our Newsletter"; ObjectID = "10Q-jR-fAc"; */
+"10Q-jR-fAc.title" = "订阅邮件推送";
+
+/* Class = "NSButtonCell"; title = "Choose"; ObjectID = "14"; */
+"14.title" = "选取";
+
+/* Class = "NSButtonCell"; title = "Open an Existing File…"; ObjectID = "AZj-LU-ro5"; */
+"AZj-LU-ro5.title" = "打开现有文件…";
+
+/* Class = "NSButtonCell"; alternateTitle = "Get started with these tutorials"; ObjectID = "BMo-wE-pTM"; */
+"BMo-wE-pTM.alternateTitle" = "来看看使用教程";
+
+/* Class = "NSButtonCell"; title = "New to Sketch?"; ObjectID = "BMo-wE-pTM"; */
+"BMo-wE-pTM.title" = "刚开始使用 Sketch？";
+
+/* Class = "NSSegmentedCell"; Cy3-c5-5Xk.ibShadowedLabels[0] = "Recents"; ObjectID = "Cy3-c5-5Xk"; */
+"Cy3-c5-5Xk.ibShadowedLabels[0]" = "最近使用";
+
+/* Class = "NSSegmentedCell"; Cy3-c5-5Xk.ibShadowedLabels[1] = "Templates"; ObjectID = "Cy3-c5-5Xk"; */
+"Cy3-c5-5Xk.ibShadowedLabels[1]" = "模板";
+
+/* Class = "NSWindow"; title = "Welcome to Sketch"; ObjectID = "FvX-39-LU1"; */
+"FvX-39-LU1.title" = "欢迎使用 Sketch";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Version"; ObjectID = "JCU-jw-JHS"; */
+"JCU-jw-JHS.placeholderString" = "版本";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Search"; ObjectID = "La5-eq-g1k"; */
+"La5-eq-g1k.placeholderString" = "搜索";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to Sketch"; ObjectID = "nMj-Vf-s7v"; */
+"nMj-Vf-s7v.title" = "欢迎使用 Sketch";
+
+/* Class = "NSButtonCell"; alternateTitle = "View your designs on iOS"; ObjectID = "qjc-fW-upP"; */
+"qjc-fW-upP.alternateTitle" = "在 iOS 设备上预览您的设计";
+
+/* Class = "NSButtonCell"; title = "Get Sketch Mirror"; ObjectID = "qjc-fW-upP"; */
+"qjc-fW-upP.title" = "获取 Sketch Mirror";
+
+/* Class = "NSButtonCell"; alternateTitle = "Upload and share your designs"; ObjectID = "VAv-nb-ejk"; */
+"VAv-nb-ejk.alternateTitle" = "上传并分享您的设计";
+
+/* Class = "NSButtonCell"; title = "Join Sketch Cloud"; ObjectID = "VAv-nb-ejk"; */
+"VAv-nb-ejk.title" = "加入 Sketch Cloud";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "wg3-0c-iyX"; */
+"wg3-0c-iyX.title" = "取消";
+
+/* Class = "NSMenuItem"; title = "Clear Recent Documents"; ObjectID = "xFK-Hk-94P"; */
+"xFK-Hk-94P.title" = "清除近期使用文档";
+
+/* Class = "NSButtonCell"; alternateTitle = "Harness the power of plugins"; ObjectID = "yf1-iE-OIE"; */
+"yf1-iE-OIE.alternateTitle" = "提过插件提高生产力";
+
+/* Class = "NSButtonCell"; title = "Extend Sketch"; ObjectID = "yf1-iE-OIE"; */
+"yf1-iE-OIE.title" = "扩展 Sketch";
+
+/* Class = "NSMenuItem"; title = "Show User Templates Folder"; ObjectID = "zAD-2y-mpH"; */
+"zAD-2y-mpH.title" = "显示用户模板文件夹";
+
+/* Class = "NSButtonCell"; title = "Show this window on launch"; ObjectID = "zD0-qr-MhJ"; */
+"zD0-qr-MhJ.title" = "启动时显示该窗口";
+

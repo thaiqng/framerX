@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="11">
+    <g>
+        <path d="M 1.5 2.5 L 17.5 2.5" fill="transparent" stroke="#555"></path>
+        <g transform="translate(1.5 0)">
+            <path d="M 0 11 L 0 10.5 C 0 6.082 3.582 2.5 8 2.5 L 8 2.5 C 12.418 2.5 16 6.082 16 10.5 L 16 11" fill="#333" stroke="#555"></path>
+            <g>
+                <defs>
+                    <path d="M 8 0 C 9.381 0 10.5 1.119 10.5 2.5 C 10.5 3.881 9.381 5 8 5 C 6.619 5 5.5 3.881 5.5 2.5 C 5.5 1.119 6.619 0 8 0 Z" id="shape_id_qyktf2lOt"></path>
+                    <clipPath id="shape_id_qyktf2lOt_clip">
+                        <use xlink:href="#shape_id_qyktf2lOt"></use>
+                    </clipPath>
+                </defs>
+                <use xlink:href="#shape_id_qyktf2lOt" fill="#333" clip-path="url(#shape_id_qyktf2lOt_clip)" stroke-width="2" stroke="#555"></use>
+            </g>
+        </g>
+        <g>
+            <defs>
+                <path d="M 0 1 L 3 1 L 3 4 L 0 4 Z" id="shape_id_ExPw645ek"></path>
+                <clipPath id="shape_id_ExPw645ek_clip">
+                    <use xlink:href="#shape_id_ExPw645ek"></use>
+                </clipPath>
+            </defs>
+            <use xlink:href="#shape_id_ExPw645ek" fill="#333" clip-path="url(#shape_id_ExPw645ek_clip)" stroke-width="2" stroke="#555"></use>
+        </g>
+        <g>
+            <defs>
+                <path d="M 16 1 L 19 1 L 19 4 L 16 4 Z" id="shape_id_Sm8WDF5pp"></path>
+                <clipPath id="shape_id_Sm8WDF5pp_clip">
+                    <use xlink:href="#shape_id_Sm8WDF5pp"></use>
+                </clipPath>
+            </defs>
+            <use xlink:href="#shape_id_Sm8WDF5pp" fill="#333" clip-path="url(#shape_id_Sm8WDF5pp_clip)" stroke-width="2" stroke="#555"></use>
+        </g>
+    </g>
+</svg>

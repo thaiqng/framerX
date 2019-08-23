@@ -1,0 +1,18 @@
+/* Class = "NSTextFieldCell"; title = "Color Adjust"; ObjectID = "3048"; */
+"3048.title" = "调整颜色";
+
+/* Class = "NSTextFieldCell"; title = "Saturation"; ObjectID = "3074"; */
+"3074.title" = "饱和度";
+
+/* Class = "NSTextFieldCell"; title = "Brightness"; ObjectID = "3084"; */
+"3084.title" = "亮度";
+
+/* Class = "NSTextFieldCell"; title = "Contrast"; ObjectID = "3093"; */
+"3093.title" = "对比度";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset values to defaults."; ObjectID = "lHr-hv-NFv"; */
+"lHr-hv-NFv.ibShadowedToolTip" = "重设为默认值。";
+
+/* Class = "NSTextFieldCell"; title = "Hue"; ObjectID = "V12-sV-siL"; */
+"V12-sV-siL.title" = "色相";
+

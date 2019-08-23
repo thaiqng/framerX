@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="13">
+    <g>
+        <g>
+            <defs>
+                <path d="M 0 0 L 9 0 L 9 9 L 0 9 Z" id="shape_id_c0bh3tHZJ"></path>
+                <clipPath id="shape_id_c0bh3tHZJ_clip">
+                    <use xlink:href="#shape_id_c0bh3tHZJ"></use>
+                </clipPath>
+            </defs>
+            <use xlink:href="#shape_id_c0bh3tHZJ" fill="#333" clip-path="url(#shape_id_c0bh3tHZJ_clip)" stroke-width="2" stroke="#555"></use>
+        </g>
+        <g>
+            <defs>
+                <path d="M 4 4 L 13 4 L 13 13 L 4 13 Z" id="shape_id_tF1SesDpV"></path>
+                <clipPath id="shape_id_tF1SesDpV_clip">
+                    <use xlink:href="#shape_id_tF1SesDpV"></use>
+                </clipPath>
+            </defs>
+            <use xlink:href="#shape_id_tF1SesDpV" fill="#333" clip-path="url(#shape_id_tF1SesDpV_clip)" stroke-width="2" stroke="#555"></use>
+        </g>
+        <g>
+            <defs>
+                <path d="M 4 4 L 9 4 L 9 9 L 4 9 Z" id="shape_id_vTnqQYGwR"></path>
+                <clipPath id="shape_id_vTnqQYGwR_clip">
+                    <use xlink:href="#shape_id_vTnqQYGwR"></use>
+                </clipPath>
+            </defs>
+            <use xlink:href="#shape_id_vTnqQYGwR" fill="#333" clip-path="url(#shape_id_vTnqQYGwR_clip)" stroke-width="2" stroke="#555"></use>
+        </g>
+    </g>
+</svg>

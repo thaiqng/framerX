@@ -1,0 +1,6 @@
+/* Class = "NSTextFieldCell"; title = "Blurs"; ObjectID = "00M-tn-aAn"; */
+"00M-tn-aAn.title" = "模糊";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Apply a blur to style."; ObjectID = "bx6-qQ-rvc"; */
+"bx6-qQ-rvc.ibShadowedToolTip" = "应用模糊样式";
+

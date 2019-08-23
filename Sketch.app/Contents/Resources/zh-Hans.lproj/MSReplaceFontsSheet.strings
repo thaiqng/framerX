@@ -1,0 +1,30 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2Dw-Vx-War"; */
+"2Dw-Vx-War.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Some fonts used by this document are missing"; ObjectID = "2hP-mr-7WC"; */
+"2hP-mr-7WC.title" = "文档中实用的部分字体丢失了";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "4r1-Fm-xcQ"; */
+"4r1-Fm-xcQ.title" = "表视图单元格";
+
+/* Class = "NSButtonCell"; title = "Typeface"; ObjectID = "8WB-HT-WS5"; */
+"8WB-HT-WS5.title" = "字体";
+
+/* Class = "NSTextFieldCell"; title = "This document uses fonts which can‘t be found on your system. Replacing the missing fonts will update text layers in your document."; ObjectID = "aG4-wa-y3a"; */
+"aG4-wa-y3a.title" = "文档中使用的字体无法在您的系统中找到。替换丢失的字体后文档中的字符层都将被更新。";
+
+/* Class = "NSWindow"; title = "Replace Missing Fonts"; ObjectID = "i53-5K-iZt"; */
+"i53-5K-iZt.title" = "替换丢失字体";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "knO-jT-DNy"; */
+"knO-jT-DNy.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "Regular"; ObjectID = "srw-uE-U9W"; */
+"srw-uE-U9W.title" = "常规";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "U2J-TD-l9U"; */
+"U2J-TD-l9U.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Confirm"; ObjectID = "YeM-7y-XCj"; */
+"YeM-7y-XCj.title" = "确定";
+

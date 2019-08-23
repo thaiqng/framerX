@@ -1,0 +1,12 @@
+/* Class = "NSSegmentedCell"; M8h-uN-Ef1.ibShadowedLabels[0] = "Layer Styles"; ObjectID = "M8h-uN-Ef1"; */
+"M8h-uN-Ef1.ibShadowedLabels[0]" = "图层样式";
+
+/* Class = "NSSegmentedCell"; M8h-uN-Ef1.ibShadowedLabels[1] = "Text Styles"; ObjectID = "M8h-uN-Ef1"; */
+"M8h-uN-Ef1.ibShadowedLabels[1]" = "字符样式";
+
+/* Class = "NSSegmentedCell"; M8h-uN-Ef1.ibShadowedLabels[2] = "Imported Symbols"; ObjectID = "M8h-uN-Ef1"; */
+"M8h-uN-Ef1.ibShadowedLabels[2]" = "导入的控件";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "WW1-oP-Stp"; */
+"WW1-oP-Stp.title" = "完成";
+

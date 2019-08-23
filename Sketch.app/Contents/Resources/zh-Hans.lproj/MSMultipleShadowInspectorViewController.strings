@@ -1,0 +1,12 @@
+/* Class = "NSTextFieldCell"; title = "Shadows"; ObjectID = "2956"; */
+"2956.title" = "阴影";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new shadow to style."; ObjectID = "bVb-fn-acY"; */
+"bVb-fn-acY.ibShadowedToolTip" = "新增阴影样式。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove unused Shadows."; ObjectID = "HUd-2c-OKO"; */
+"HUd-2c-OKO.ibShadowedToolTip" = "移除未使用的阴影。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new shadow to style."; ObjectID = "NhH-k4-g2v"; */
+"NhH-k4-g2v.ibShadowedToolTip" = "新增阴影样式。";
+

@@ -1,0 +1,16 @@
+{
+    "bottomToolbar": "off",
+    "feedback": "off",
+    "feedbackJustSendIt": "off",
+    "feedbackServiceShim": "off",
+    "forceCodeComponentDomLayout": "off",
+    "ipcPreview": "off",
+    "disablePublishing": "off",
+    "sidebarStore": "off",
+    "rulers": "on",
+    "replaceWith": "on",
+    "exportPanel": "off",
+    "sandboxCanvas": "off",
+    "webfonts": "on",
+    "fractionOnStackInsert": "off"
+}

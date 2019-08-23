@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9" height="10" viewBox="0 0 9 10">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="1" height="10" x="4" fill="#444444"/>
+    <polyline stroke="#444444" points="1 4 4.5 .5 8 4"/>
+    <rect width="1" height="1" y="3" fill="#FFFFFF"/>
+    <rect width="1" height="1" x="8" y="3" fill="#FFFFFF"/>
+  </g>
+</svg>

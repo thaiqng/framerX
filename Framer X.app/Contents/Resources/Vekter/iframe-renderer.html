@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <script src="scripts/react/react.production.min.js"></script>
+        <script src="scripts/react-dom/react-dom.production.min.js"></script>
+
+        <link href="styles/Draft.css" rel="stylesheet" />
+        <link href="styles/style.css" rel="stylesheet" />
+
+        <!-- Workaround for a WebKit bug: loading via URL from the stylesheet is denied if this file is loaded via file:/// -->
+        <style>
+            @font-face {
+                font-family: "Roboto Mono";
+                font-style: normal;
+                font-weight: 400;
+                src: local("Roboto Mono"), local("RobotoMono-Regular"),
+                    url("fonts/RobotoMono-Regular.ttf") format("truetype");
+            }
+        </style>
+    </head>
+
+    <body>
+        <main></main>
+        <script src="iframe_renderer.js"></script>
+    </body>
+</html>

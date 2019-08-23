@@ -1,0 +1,57 @@
+{
+  "_from": "@skpm/process@0.1.2",
+  "_id": "@skpm/process@0.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-UvHIPBB6LkznPOPlZQlxFYMJvQnjarfSSR3jo6I5PZiOxSYBFc7UkpydQ+ZILCo1/g3lgQikIEOdZwiVdoj2+Q==",
+  "_location": "/@skpm/process",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@skpm/process@0.1.2",
+    "name": "@skpm/process",
+    "escapedName": "@skpm%2fprocess",
+    "scope": "@skpm",
+    "rawSpec": "0.1.2",
+    "saveSpec": null,
+    "fetchSpec": "0.1.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@skpm/process/-/process-0.1.2.tgz",
+  "_shasum": "c56b9f5f8f9aa776eb89c783fbe9d8280b3362e3",
+  "_spec": "@skpm/process@0.1.2",
+  "_where": "/Users/Shared/Jenkins/workspace/SketchAPI/core-modules",
+  "author": {
+    "name": "Mathieu Dutour",
+    "email": "mathieu@dutour.me",
+    "url": "http://mathieu.dutour.me/"
+  },
+  "bugs": {
+    "url": "https://github.com/skpm/process/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Drop-in replacement for the process NodeJS global",
+  "devDependencies": {
+    "@skpm/test-runner": "^0.3.13"
+  },
+  "homepage": "https://github.com/skpm/process#readme",
+  "keywords": [
+    "sketch",
+    "module",
+    "process"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@skpm/process",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skpm/process.git"
+  },
+  "scripts": {
+    "test": "skpm-test"
+  },
+  "version": "0.1.2"
+}

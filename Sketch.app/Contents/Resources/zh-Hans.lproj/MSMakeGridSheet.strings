@@ -1,0 +1,30 @@
+/* Class = "NSTextFieldCell"; title = "Grid Tool"; ObjectID = "10"; */
+"10.title" = "网格工具";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "28"; */
+"28.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Make Grid"; ObjectID = "29"; */
+"29.title" = "制作网格";
+
+/* Class = "NSTextFieldCell"; title = "Margin"; ObjectID = "60"; */
+"60.title" = "外边距";
+
+/* Class = "NSTextFieldCell"; title = "Margin"; ObjectID = "61"; */
+"61.title" = "外边距";
+
+/* Class = "NSTextFieldCell"; title = "Columns:"; ObjectID = "63"; */
+"63.title" = "列：";
+
+/* Class = "NSTextFieldCell"; title = "Columns"; ObjectID = "94"; */
+"94.title" = "列";
+
+/* Class = "NSTextFieldCell"; title = "Rows"; ObjectID = "95"; */
+"95.title" = "行";
+
+/* Class = "NSTextFieldCell"; title = "Rows:"; ObjectID = "124"; */
+"124.title" = "行：";
+
+/* Class = "NSButtonCell"; title = "Duplicate layers to fill missing cells"; ObjectID = "GwM-ce-LhD"; */
+"GwM-ce-LhD.title" = "复制图层以填充缺失的单元格";
+

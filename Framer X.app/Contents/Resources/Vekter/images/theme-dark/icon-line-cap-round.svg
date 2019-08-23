@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="11" height="10">
+    <g transform="translate(0.5 0.5)">
+        <path d="M 0 9.5 L 0 5 C 0 2.239 2.239 0 5 0 L 5 0 C 7.761 0 10 2.239 10 5 L 10 9.5" fill="#444" stroke="#666"></path>
+        <g>
+            <defs>
+                <path d="M 5 2.5 C 6.381 2.5 7.5 3.619 7.5 5 C 7.5 6.381 6.381 7.5 5 7.5 C 3.619 7.5 2.5 6.381 2.5 5 C 2.5 3.619 3.619 2.5 5 2.5 Z" id="shape_id_dsA0R7CCO"></path>
+                <clipPath id="shape_id_dsA0R7CCO_clip">
+                    <use xlink:href="#shape_id_dsA0R7CCO"></use>
+                </clipPath>
+            </defs>
+            <use xlink:href="#shape_id_dsA0R7CCO" fill="#333" clip-path="url(#shape_id_dsA0R7CCO_clip)" stroke-width="2" stroke="#666"></use>
+        </g>
+    </g>
+</svg>

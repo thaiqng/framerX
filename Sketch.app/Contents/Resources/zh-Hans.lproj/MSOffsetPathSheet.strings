@@ -1,0 +1,24 @@
+/* Class = "NSWindow"; title = "Scale"; ObjectID = "1"; */
+"1.title" = "缩放";
+
+/* Class = "NSButtonCell"; title = "Duplicate Layer"; ObjectID = "8Z9-Oa-trT"; */
+"8Z9-Oa-trT.title" = "复制图层";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "13"; */
+"13.title" = "好的";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "14"; */
+"14.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Expand or contract the outline of a shape"; ObjectID = "19"; */
+"19.title" = "扩展或收缩形状轮廓。";
+
+/* Class = "NSTextFieldCell"; title = "Offset Path"; ObjectID = "20"; */
+"20.title" = "路径偏移";
+
+/* Class = "NSTextFieldCell"; title = "Offset:"; ObjectID = "86"; */
+"86.title" = "偏移：";
+
+/* Class = "NSTextFieldCell"; title = "0px"; ObjectID = "119"; */
+"119.title" = "0px";
+

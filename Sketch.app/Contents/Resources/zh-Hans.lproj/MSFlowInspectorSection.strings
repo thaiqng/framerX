@@ -1,0 +1,42 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Remove link from layer."; ObjectID = "5jG-0M-R7r"; */
+"5jG-0M-R7r.ibShadowedToolTip" = "移除图层链接。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Animate Artboard from Right."; ObjectID = "6il-04-JRY"; */
+"6il-04-JRY.ibShadowedToolTip" = "从右侧移入画板。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Animate Artboard from Bottom."; ObjectID = "7fh-lk-rwn"; */
+"7fh-lk-rwn.ibShadowedToolTip" = "从底部移入画板。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "No Artboard Animation."; ObjectID = "bEw-pc-VPj"; */
+"bEw-pc-VPj.ibShadowedToolTip" = "画板无动画。";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "Bs8-dh-8eL"; */
+"Bs8-dh-8eL.title" = "选项";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Animate Artboard from Top."; ObjectID = "hdn-XR-VLN"; */
+"hdn-XR-VLN.ibShadowedToolTip" = "从顶部移入画板。";
+
+/* Class = "NSTextFieldCell"; title = "Target"; ObjectID = "hve-Xb-YYE"; */
+"hve-Xb-YYE.title" = "目标";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new Link to layer."; ObjectID = "ijM-8l-3pc"; */
+"ijM-8l-3pc.ibShadowedToolTip" = "新增链接到图层。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Create separate Hotspot layer."; ObjectID = "tiZ-m4-Ds6"; */
+"tiZ-m4-Ds6.ibShadowedToolTip" = "创建单独的热区。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Animate Artboard from Left."; ObjectID = "uXh-6E-49O"; */
+"uXh-6E-49O.ibShadowedToolTip" = "从左侧移入画板。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Go to Target Artboard."; ObjectID = "vwA-K6-joU"; */
+"vwA-K6-joU.ibShadowedToolTip" = "去至目标画板。";
+
+/* Class = "NSTextFieldCell"; title = "Prototyping"; ObjectID = "wj1-XU-7ie"; */
+"wj1-XU-7ie.title" = "原型";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "yPJ-6Y-lcf"; */
+"yPJ-6Y-lcf.title" = "其他视图";
+
+/* Class = "NSTextFieldCell"; title = "Animation"; ObjectID = "Z22-zE-8b7"; */
+"Z22-zE-8b7.title" = "动画";
+

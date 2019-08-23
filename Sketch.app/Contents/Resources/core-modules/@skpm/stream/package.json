@@ -1,0 +1,41 @@
+{
+  "_from": "@skpm/stream@0.1.4",
+  "_id": "@skpm/stream@0.1.4",
+  "_inBundle": false,
+  "_integrity": "sha512-BagPWlRJKrGwUCdqet1WDkY+0uYdVm7X+ladG8jD2mEs/nyXuTAog4RdSOLZzxjgf2zu4GbCdjhxU5l2kGkPyQ==",
+  "_location": "/@skpm/stream",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@skpm/stream@0.1.4",
+    "name": "@skpm/stream",
+    "escapedName": "@skpm%2fstream",
+    "scope": "@skpm",
+    "rawSpec": "0.1.4",
+    "saveSpec": null,
+    "fetchSpec": "0.1.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@skpm/stream/-/stream-0.1.4.tgz",
+  "_shasum": "e85bec735d39018ee5d1a1bc0a5208a979d3e20f",
+  "_spec": "@skpm/stream@0.1.4",
+  "_where": "/Users/Shared/Jenkins/workspace/SketchAPI/core-modules",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A drop-in replacement for the stream NodeJS package",
+  "devDependencies": {
+    "readable-stream": "^3.1.1"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@skpm/stream",
+  "scripts": {
+    "build": "./build.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.4"
+}

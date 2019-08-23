@@ -1,0 +1,15 @@
+/* Class = "NSTextFieldCell"; title = "Fills"; ObjectID = "6d6-kP-w3c"; */
+"6d6-kP-w3c.title" = "填充";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove unused Fills."; ObjectID = "7Kf-dD-ti1"; */
+"7Kf-dD-ti1.ibShadowedToolTip" = "移除未使用的填充层。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new fill to style."; ObjectID = "bLa-oi-t7J"; */
+"bLa-oi-t7J.ibShadowedToolTip" = "新增填充样式。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new fill to style."; ObjectID = "k7K-ja-rRc"; */
+"k7K-ja-rRc.ibShadowedToolTip" = "新增填充样式。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Adjust winding rule."; ObjectID = "Qoj-xa-jja"; */
+"Qoj-xa-jja.ibShadowedToolTip" = "调整环绕规则。";
+

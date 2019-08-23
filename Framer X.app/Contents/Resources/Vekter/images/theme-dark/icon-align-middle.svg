@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="11" height="12">
+    <path d="M 5 0 L 6 0 L 6 12 L 5 12 Z" fill="#666"></path>
+    <g>
+        <defs>
+            <path d="M 1 3 L 10 3 L 10 9 L 1 9 Z" id="a1384z"></path>
+            <clipPath id="a1385z">
+                <use xlink:href="#a1384z"></use>
+            </clipPath>
+        </defs>
+        <use xlink:href="#a1384z" fill="#444" clip-path="url(#a1385z)" stroke-width="2" stroke="#666"></use>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="24" height="24" viewBox="0 0 24 24" 
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-align-3-right-active</title>
+    <defs>
+        <path id="a" d="M4 9h11v6H4z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#0099FF" d="M17 4h1v16h-1z"/>
+        <use fill="#123553" xlink:href="#a"/>
+        <path stroke="#0099FF" d="M4.5 9.5h10v5h-10z"/>
+    </g>
+</svg>

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <script type="text/javascript">
+            function bridge(method, args) {
+                if (window._bridge) {
+                    window._bridge(method, args)
+                } else {
+                    console.log("Could not call bridge:", method, args)
+                }
+            }
+        </script>
+        <style>
+            body {
+                background: #f5f5f5;
+                line-height: 1.5;
+                font-size: 15px;
+                color: #111111;
+                -webkit-font-smoothing: antialiased;
+            }
+            * {
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+                    "Open Sans", "Helvetica Neue", sans-serif;
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+            }
+            h1 {
+                font-size: 24px;
+                line-height: 1;
+                font-weight: 700;
+            }
+            input {
+                height: 40px;
+                width: 320px;
+                font-size: 13px;
+                line-height: 1.5;
+                border-radius: 4px;
+                text-align: left;
+                background: #fff;
+                color: #111;
+                border: none;
+                box-shadow: inset 0 0 0 1px #f0f0f0;
+                padding: 12px 14px;
+                transition: all 0.2s;
+                outline: none;
+                -webkit-appearance: none;
+            }
+            input:focus {
+                box-shadow: inset 0 0 0 1px #09f;
+            }
+            input::placeholder {
+                /* Chrome, Firefox, Opera, Safari 10.1+ */
+                color: #999;
+            }
+            .c-vh {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            section {
+                height: 100vh;
+                text-align: center;
+            }
+            .window > .body {
+                width: 360px;
+            }
+            .window h1,
+            .subtitle {
+                margin-top: 20px;
+            }
+            .window .subtitle {
+                margin-top: 16px;
+            }
+            .window form {
+                margin-top: 25px;
+            }
+            .window svg {
+                vertical-align: text-bottom;
+            }
+            .window {
+                position: relative;
+                width: 808px;
+                height: 472px;
+                background: #fff;
+                box-sizing: border-box;
+                flex-direction: column;
+                padding-bottom: 68px;
+            }
+            .button {
+                position: absolute;
+                bottom: 14px;
+                right: 15px;
+                min-width: 75px;
+                width: auto;
+                height: 40px;
+                padding: 10px 20px;
+                font-size: 13px;
+                line-height: 1;
+                border-radius: 4px;
+                font-weight: 700;
+                outline: none;
+                border: none;
+                color: #fff;
+                background: #09f;
+                transition: opacity 0.2s;
+                opacity: 1;
+                z-index: 1;
+            }
+            .button:active {
+                background: #08f;
+            }
+            .button:hover {
+                cursor: pointer;
+            }
+            .bottom {
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                pointer-events: none;
+                z-index: 0;
+                width: 100%;
+                height: 68px;
+                box-shadow: inset 0 1px 0 0 #eee;
+            }
+        </style>
+    </head>
+
+    <body>
+        <section class="c-vh">
+            <div class="window c-vh">
+                <div class="body">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="24">
+                        <path d="M16 0v8H8L0 0zM0 8h8l8 8H8v8l-8-8z" fill="#09F"></path>
+                    </svg>
+                    <h1>Framer Enterprise Domain</h1>
+                    <p class="subtitle">
+                        Enter your Framer Enterprise Domain to get started. If you're not sure what this is, please
+                        contact your system&nbsp;administrator.
+                    </p>
+                    <form onsubmit="bridge('configure', document.getElementById('domain').value); return false">
+                        <input id="domain" placeholder="example.company.com" />
+                        <button class="button" type="submit" value="Submit">Next</button>
+                    </form>
+                </div>
+                <div class="bottom"></div>
+            </div>
+        </section>
+        <script>
+            document.addEventListener(
+                "contextmenu",
+                function(event) {
+                    event.preventDefault()
+                },
+                false
+            )
+            var domainInput = document.getElementById("domain")
+            domainInput.setAttribute("value", window.location.hash.replace(/^#/, ""))
+            domainInput.focus()
+        </script>
+    </body>
+</html>

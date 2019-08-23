@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="13">
+    <g>
+        <g>
+            <path d="M 10.5 2.5 L 2.5 10.5" fill="transparent" stroke="#09f"></path>
+            <g>
+                <defs>
+                    <path d="M 10.5 0 C 11.881 0 13 1.119 13 2.5 C 13 3.881 11.881 5 10.5 5 C 9.119 5 8 3.881 8 2.5 C 8 1.119 9.119 0 10.5 0 Z M 2.5 8 C 3.881 8 5 9.119 5 10.5 C 5 11.881 3.881 13 2.5 13 C 1.119 13 0 11.881 0 10.5 C 0 9.119 1.119 8 2.5 8 Z" id="a2734z"></path>
+                    <clipPath id="a2735z">
+                        <use xlink:href="#a2734z"></use>
+                    </clipPath>
+                </defs>
+                <use xlink:href="#a2734z" fill="#123456" clip-path="url(#a2735z)" stroke-width="2" stroke="#09f"></use>
+            </g>
+        </g>
+    </g>
+</svg>

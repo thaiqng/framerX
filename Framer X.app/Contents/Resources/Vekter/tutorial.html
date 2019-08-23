@@ -1,0 +1,46 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <script src="scripts/react/react.development.js"></script>
+    <script src="scripts/react-dom/react-dom.development.js"></script>
+    <script src="/node_modules/framer/build/framer.js"></script>
+
+    <link href="styles/Draft.css" rel="stylesheet" />
+    <link href="styles/style.css" rel="stylesheet" />
+
+    <!-- Workaround for a WebKit bug: loading via URL from the stylesheet is denied if this file is loaded via file:/// -->
+    <style>
+        @font-face {
+            font-family: "Roboto Mono";
+            font-style: normal;
+            font-weight: 400;
+            src: local("Roboto Mono"), local("RobotoMono-Regular"), url("fonts/RobotoMono-Regular.ttf") format("truetype");
+        }
+        @font-face {
+            font-family: "Input Mono";
+            font-style: normal;
+            font-weight: 400;
+            src: local("Input Mono"), url("fonts/QbHJVUjy6YgY.app.ttf") format("truetype");
+        }
+    </style>
+    <style>
+        * {
+            -webkit-font-smoothing: antialiased;
+            -webkit-user-select: none;
+            cursor: default;
+        }
+    </style>
+
+</head>
+
+<body>
+    <main></main>
+    <script src="tutorial.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "98C-Am-wC9"; */
+"98C-Am-wC9.title" = "取消";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Do you want to discard the changes made to the document?"; ObjectID = "lDw-OP-ZSP"; */
+"lDw-OP-ZSP.title" = "您要丢弃对文档所做的更改吗？";
+
+/* Class = "NSButtonCell"; title = "Discard Changes"; ObjectID = "NXU-xm-AxP"; */
+"NXU-xm-AxP.title" = "丢弃更改";
+
+/* Class = "NSTextFieldCell"; title = "Your document is currently being uploaded to Sketch Cloud. Any changes will be lost if you discard them before the upload is complete."; ObjectID = "rSE-cC-4HT"; */
+"rSE-cC-4HT.title" = "正在上传文档至 Sketch Cloud。上传完成前您若选择丢弃，您所做的更改将全部丢失。";
+

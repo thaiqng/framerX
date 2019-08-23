@@ -1,0 +1,15 @@
+/* Class = "NSTextFieldCell"; title = "Borders"; ObjectID = "2956"; */
+"2956.title" = "边框";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Adjust Border properties."; ObjectID = "2985"; */
+"2985.ibShadowedToolTip" = "调整边框属性。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new border to style."; ObjectID = "jVJ-7A-fg5"; */
+"jVJ-7A-fg5.ibShadowedToolTip" = "新增边框样式。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add new border to style."; ObjectID = "Jwi-HF-By1"; */
+"Jwi-HF-By1.ibShadowedToolTip" = "新增边框样式。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove unused Borders."; ObjectID = "mPl-6l-7cf"; */
+"mPl-6l-7cf.ibShadowedToolTip" = "移除未使用的边框。";
+

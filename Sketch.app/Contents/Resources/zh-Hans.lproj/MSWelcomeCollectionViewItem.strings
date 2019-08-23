@@ -1,0 +1,15 @@
+/* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "0K5-tG-Yct"; */
+"0K5-tG-Yct.title" = "在访达中显示";
+
+/* Class = "NSMenuItem"; title = "Reveal User Templates Folder"; ObjectID = "bSs-Xb-6rf"; */
+"bSs-Xb-6rf.title" = "打开用户模板文件夹";
+
+/* Class = "NSMenuItem"; title = "Show in Sketch Cloud"; ObjectID = "vEU-Hj-Ez2"; */
+"vEU-Hj-Ez2.title" = "在 Sketch Cloud 中显示";
+
+/* Class = "NSMenuItem"; title = "Clear Recent Documents"; ObjectID = "wSY-th-ohA"; */
+"wSY-th-ohA.title" = "清除近期使用文档";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name"; ObjectID = "ycA-iu-W1X"; */
+"ycA-iu-W1X.placeholderString" = "命名";
+

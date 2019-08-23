@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="13">
+    <g>
+        <g>
+            <defs>
+                <path d="M 0 0 L 9 0 L 9 9 L 0 9 Z" id="shape_id_QKwJ9IPL0"></path>
+                <clipPath id="shape_id_QKwJ9IPL0_clip">
+                    <use xlink:href="#shape_id_QKwJ9IPL0"></use>
+                </clipPath>
+            </defs>
+            <use xlink:href="#shape_id_QKwJ9IPL0" fill="rgba(0, 153, 255, 0.2)" clip-path="url(#shape_id_QKwJ9IPL0_clip)" stroke-width="2" stroke="#09f"></use>
+        </g>
+        <g>
+            <defs>
+                <path d="M 4 4 L 13 4 L 13 13 L 4 13 Z" id="shape_id_gfRg7s8dd"></path>
+                <clipPath id="shape_id_gfRg7s8dd_clip">
+                    <use xlink:href="#shape_id_gfRg7s8dd"></use>
+                </clipPath>
+            </defs>
+            <use xlink:href="#shape_id_gfRg7s8dd" fill="#222" clip-path="url(#shape_id_gfRg7s8dd_clip)" stroke-width="2" stroke="#09f"></use>
+        </g>
+    </g>
+</svg>
